@@ -166,7 +166,16 @@
                                                   </block>
                                                 </value>
                                                 <next>
-                                                  <block type="multimedia_doupdate" id="136"></block>
+                                                  <block type="oled_drawnumber" id="146" inline="true">
+                                                    <value name="NUMBER">
+                                                      <block type="variables_get" id="147">
+                                                        <field name="VAR">rear</field>
+                                                      </block>
+                                                    </value>
+                                                    <next>
+                                                      <block type="multimedia_doupdate" id="136"></block>
+                                                    </next>
+                                                  </block>
                                                 </next>
                                               </block>
                                             </next>
