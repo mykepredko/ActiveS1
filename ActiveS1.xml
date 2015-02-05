@@ -1,5 +1,5 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="procedures_defnoreturn" id="1" x="448" y="-47">
+  <block type="procedures_defnoreturn" id="1" x="436" y="-47">
     <mutation></mutation>
     <field name="NAME">screenUpdate</field>
     <statement name="STACK">
@@ -129,7 +129,7 @@
       </block>
     </statement>
   </block>
-  <block type="comment_comment" id="30" x="1" y="1">
+  <block type="comment_comment" id="30" x="0" y="-15">
     <field name="TEXT">ActiveS1 - ActiveD1 Converted to Scratch</field>
     <next>
       <block type="variables_set" id="31" inline="true">
