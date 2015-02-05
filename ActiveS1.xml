@@ -49,6 +49,11 @@
                                 <field name="OBJECT">REAR</field>
                               </block>
                             </value>
+                            <next>
+                              <block type="procedures_callnoreturn" id="145">
+                                <mutation name="screenUpdate"></mutation>
+                              </block>
+                            </next>
                           </block>
                         </next>
                       </block>
