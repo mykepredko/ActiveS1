@@ -180,7 +180,7 @@
                               </block>
                             </value>
                             <next>
-                              <block type="controls_whileUntil" id="43" inline="false">
+                              <block type="controls_whileUntil" id="43" inline="false" disabled="true">
                                 <field name="MODE">UNTIL</field>
                                 <value name="NUMBER">
                                   <block type="sensor_button" id="44">
