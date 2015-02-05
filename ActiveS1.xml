@@ -231,7 +231,7 @@
                                                       <block type="procedures_callnoreturn" id="55">
                                                         <mutation name="screenUpdate"></mutation>
                                                         <next>
-                                                          <block type="controls_if" id="56" inline="false">
+                                                          <block type="controls_if" id="56" inline="false" disabled="true">
                                                             <mutation elseif="5" else="1"></mutation>
                                                             <value name="IF0">
                                                               <block type="logic_operation" id="57" inline="true">
