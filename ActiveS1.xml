@@ -1,5 +1,5 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="procedures_defnoreturn" id="1" x="436" y="-47">
+  <block type="procedures_defnoreturn" id="1" disabled="true" x="436" y="-47">
     <mutation></mutation>
     <field name="NAME">screenUpdate</field>
     <statement name="STACK">
